@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1582893218 source:d:\banarivlad\pr03vb\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<conio.h>
+
